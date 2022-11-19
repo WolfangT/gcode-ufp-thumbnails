@@ -2,6 +2,9 @@
 
 Add Nautilus thumbnails for gcode and UFP files
 
+![Exmaple Image](https://raw.githubusercontent.com/WolfangT/gcode-ufp-thumbnails/master/example.png)
+
+
 Instalation
 -----------
 
@@ -21,11 +24,11 @@ but make sure to use install.sh again, in orther to rewrite the thumbnailer file
 
 Also check out:
 
- - https://srlm.io/2015/12/15/scad-thumbnailer/ for SCAD files
+ - [https://srlm.io/2015/12/15/scad-thumbnailer/](https://srlm.io/2015/12/15/scad-thumbnailer/) for SCAD files
  
- - https://github.com/unlimitedbacon/stl-thumb for STL files
+ - [https://github.com/unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) for STL files
  
- - https://forum.freecadweb.org/viewtopic.php?t=48509 for FreeCad files
+ - [https://forum.freecadweb.org/viewtopic.php?t=48509](https://forum.freecadweb.org/viewtopic.php?t=48509 for FreeCad) for FreeCAD files
 
 But be sure to replace:
 
