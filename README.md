@@ -28,7 +28,7 @@ Also check out:
  
  - [https://github.com/unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) for STL files
  
- - [https://forum.freecadweb.org/viewtopic.php?t=48509](https://forum.freecadweb.org/viewtopic.php?t=48509 for FreeCad) for FreeCAD files
+ - [https://forum.freecadweb.org/viewtopic.php?t=48509](https://forum.freecadweb.org/viewtopic.php?t=48509) for FreeCAD files
 
 But be sure to replace:
 
