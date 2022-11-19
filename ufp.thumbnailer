@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+tryExec=ufp-thumb.py
+Exec=ufp-thumb.py %i %o %s
+MimeType=application/x-ufp
